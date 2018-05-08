@@ -1,0 +1,22 @@
+{
+   "name": "react-native-confetti-view",
+   "version": "1.0.0",
+   "description": "Making it rain with little coloured things falling down on your screen.",
+   "main": "index.js",
+   "directories": {
+      "example": "example"
+   },
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "author": "Thomas Schoffelen <thomas@includable.com> (https://includable.com/)",
+   "license": "MIT",
+   "dependencies": {
+      "prop-types": "^15.6.1",
+      "react-native-animatable": "^1.2.4"
+   },
+   "peerDependencies": {
+      "react": "*",
+      "react-native": "*"
+   }
+}
